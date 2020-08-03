@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">BuildingTrial</string>
+
+    <string name="message">CI Completed</string>
 </resources>
